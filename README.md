@@ -9,17 +9,19 @@
 🌍 My mission is to empower the planet and its people through building amazing products. Please connect with me if you have an opportunity in mind.
 
 👨🏽‍💻 Highlights:
-• Running data analysis studies to improve system performance (R, Excel, and Python)
-• Improved Python chemical model by documenting bugs and reviewing numerical algorithms 
-• Design, procurement, management, and troubleshooting of complex chemical processes
-• Supported analysis of chemical process model development on Python/Cantera
-• Co-Inventor on a patent - Ekona Power Inc. 2018. Methods of producing one or more products using a feedstock gas reactor. U.S. Patent 17/461,615, filed August 30, 2021, and issued June 16, 2022.
+- Running data analysis studies to improve system performance (R, Excel, and Python)
+- Improved Python chemical model by documenting bugs and reviewing numerical algorithms 
+- Design, procurement, management, and troubleshooting of complex chemical processes
+- Supported analysis of chemical process model development on Python/Cantera
+- Co-Inventor on a patent - Ekona Power Inc. 2018  https://patents.google.com/patent/US20220185664A1/en?assignee=ekona+power&oq=ekona+power
 
-
-
-💻Skills:
-• MERN Stack (MongoDB, Express, React, Node)
-• HTML/CSS/JavaScript
+💻 Tech Stack:
+- MERN Stack 
+- Frontend: HTML, CSS, JavaScript
+- Backend: NodeJS, Express
+- Database: MongoDB
+- Numerical: Python, C, 
+- Tools: Axios
 
 📍 Let's Connect!
 Email 📧: shawnesquivel24@gmail.com
