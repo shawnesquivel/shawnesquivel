@@ -17,11 +17,12 @@
 
 💻 Tech Stack:
 - MERN Stack 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: React, HTML, CSS, JavaScript
 - Backend: NodeJS, Express
 - Database: MongoDB
 - Numerical: Python, C, 
-- Tools: Axios
+- Tools: Axios, Git, GitHub
+- Authorization: JSON Web Token, oAuth2.0
 
 📍 Let's Connect!
 Email 📧: shawnesquivel24@gmail.com
