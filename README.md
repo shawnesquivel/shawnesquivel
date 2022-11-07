@@ -25,5 +25,6 @@
 - Authorization: JSON Web Token, oAuth2.0
 
 📍 Let's Connect!
-Email 📧: shawnesquivel24@gmail.com
-GitHub 💻: https://github.com/shawnesquivel
+- Email 📧: shawnesquivel24@gmail.com
+- GitHub 💻: https://github.com/shawnesquivel
+- LinkedIn 🔗: https://linkedin.com/in/shawnesquivel
