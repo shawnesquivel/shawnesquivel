@@ -2,11 +2,13 @@
 
 👨🏽‍🔬 Seven years ago, I decided to study Chemical Engineering because I wanted to fight climate change.
 
-🌱 This led me to working at a Clean Energy startup company after graduation. For 2 years, I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to model a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I couldn’t contribute more to the software development of the chemical model.
+🌱 This led me to working at a Clean Energy startup company after graduation. For 2 years, I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to simulate and optimize a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I didn't have the skills to contribute more to the software development in Python.
 
-👨🏽‍💻 This led me to start learning how to code in my evenings after work. I found the same passion in designing and building websites had initially led me to becoming an engineer. I also found that the skills I developed in engineering, such as troubleshooting and being detail-oriented, helped me to build better software. 
+👨🏽‍💻 This led me to start learning how to code in my evenings after work. The same passion that drew me to Chemical Engineering, I also found in building websites.  Skills that I had developed from working at a startup, such as first principles thinking and troubleshooting, helped me to write code. 
 
-🌍 My mission is to empower the planet and its people through building amazing products. Please connect with me if you have an opportunity in mind.
+🌍 I want to empower the planet and its people through building amazing products. Please connect with me if you have an opportunity in mind. 
+- Email 📧: shawnesquivel24@gmail.com
+- LinkedIn 🔗: https://linkedin.com/in/shawnesquivel
 
 👨🏽‍💻 Highlights:
 - Running data analysis studies to improve system performance (R, Excel, and Python)
@@ -24,7 +26,3 @@
 - Tools: Axios, Git, GitHub
 - Authorization: JSON Web Token, oAuth2.0
 
-📍 Let's Connect!
-- Email 📧: shawnesquivel24@gmail.com
-- GitHub 💻: https://github.com/shawnesquivel
-- LinkedIn 🔗: https://linkedin.com/in/shawnesquivel
