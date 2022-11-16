@@ -3,6 +3,8 @@
 ### 📄 Resume
 [ShawnEsquivel_Resume_REVJ.pdf](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
 
+# Portfolio 
+
 ## My Favourite Projects
 **[CoLab](https://github.com/shawnesquivel/CoLab)**            |  **[CryptoX](https://github.com/shawnesquivel/cryptox)**
 :-------------------------:|:-------------------------:
@@ -18,7 +20,7 @@ Creates a custom birthday card based on your birthday and favourite colour! Made
 
 https://user-images.githubusercontent.com/94336773/202268863-3a80a56b-1e3f-44c5-ac67-45a41ec8a248.mp4
 
-
+# 📖 My Story 
 ### Clean Tech
 🌱 I have worked for 2 years in fighting climate change at a Clean Energy startup. I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to simulate and optimize a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I didn't have the skills to contribute more to the software development in Python.
 
