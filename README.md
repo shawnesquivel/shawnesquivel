@@ -15,11 +15,11 @@
 - LinkedIn 🔗: https://linkedin.com/in/shawnesquivel
 
 ## 👨🏽‍💻 Highlights:
-- Running data analysis studies to improve system performance (R, Excel, and Python)
-- Improved Python chemical model by documenting bugs and reviewing numerical algorithms 
+- Running data analysis studies to improve system performance **(R, Excel, and Python)**
+- Improved Python chemical model by **documenting bugs** and reviewing numerical algorithms 
 - Design, procurement, management, and troubleshooting of complex chemical processes
-- Supported analysis of chemical process model development on Python/Cantera
-- Co-Inventor on a patent - Ekona Power Inc. 2018  https://patents.google.com/patent/US20220185664A1/en?assignee=ekona+power&oq=ekona+power
+- Supported analysis of chemical process model development on **Python/Cantera**
+- **Co-Inventor on a patent** - Ekona Power Inc. 2018  https://patents.google.com/patent/US20220185664A1/en?assignee=ekona+power&oq=ekona+power
 
 ## 💻 Tech Stack:
 - MERN Stack 
