@@ -11,8 +11,8 @@
 
 ### Contact
 🌍 I want to empower the planet and its people through building amazing products. Please connect with me if you have an opportunity in mind. 
-- Email 📧: shawnesquivel24@gmail.com
-- LinkedIn 🔗: https://linkedin.com/in/shawnesquivel
+- **Email** 📧: shawnesquivel24@gmail.com
+- **LinkedIn** 🔗: https://linkedin.com/in/shawnesquivel
 
 ## 👨🏽‍💻 Highlights:
 - Running data analysis studies to improve system performance **(R, Excel, and Python)**
