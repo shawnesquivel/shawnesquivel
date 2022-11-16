@@ -5,12 +5,12 @@
 
 # Portfolio 
 
-## My Favourite Projects
+## I'm most proud of these Full Stack Projects!
 **[CoLab](https://github.com/shawnesquivel/CoLab)**            |  **[CryptoX](https://github.com/shawnesquivel/cryptox)**
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" width="500"> | <img src="https://user-images.githubusercontent.com/94336773/168397708-691fedab-1945-42d4-bd91-efd1facb8788.png" width="500"> 
 
-### Other Recent Projects
+### Other Things I've Built!
 #### [Workout Mapper](https://github.com/shawnesquivel/workout-logger)
 Log workout data onto a real map, written in JavaScript using the Leaflet API
 <img src="https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png" width="1000">
