@@ -23,4 +23,5 @@
 - Tools: Axios, Git, GitHub
 - Authorization: JSON Web Token, oAuth2.0
 
+# Resume
 [ShawnEsquivel_Resume_REVJ.pdf](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
