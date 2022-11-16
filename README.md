@@ -1,4 +1,4 @@
-### Hello / Kamusta! 👋
+### Hello / Kamusta! 👋 (Scroll to bottom for resume)
 🌱 I have worked for 2 years in fighting climate change at a Clean Energy startup. I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to simulate and optimize a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I didn't have the skills to contribute more to the software development in Python.
 
 👨🏽‍💻 This led me to start learning how to code in my evenings after work. The same passion that drew me to Chemical Engineering, I also found in building websites.  Skills that I had developed from working at a startup, such as first principles thinking and troubleshooting, helped me to write code. 
@@ -23,3 +23,4 @@
 - Tools: Axios, Git, GitHub
 - Authorization: JSON Web Token, oAuth2.0
 
+[ShawnEsquivel_Resume_REVJ.pdf](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
