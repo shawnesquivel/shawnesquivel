@@ -9,13 +9,14 @@
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" width="500"> | <img src="https://user-images.githubusercontent.com/94336773/168397708-691fedab-1945-42d4-bd91-efd1facb8788.png" width="500"> 
 
 ### Other Recent Projects
-#### [Birthday Card Generator](https://github.com/Lala0419/mini) (BrainStation Hackathon)
-Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
-https://user-images.githubusercontent.com/94336773/202267714-e15728ef-4a79-4b4a-bb96-14a26b168bfe.mp4
-
 #### [Workout Mapper](https://github.com/shawnesquivel/workout-logger)
 Log workout data onto a real map, written in JavaScript using the Leaflet API
-https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png
+<img src="https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png" width="1000">
+
+#### [Birthday Card Generator](https://github.com/Lala0419/mini) (BrainStation Hackathon)
+Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
+
+https://user-images.githubusercontent.com/94336773/202268863-3a80a56b-1e3f-44c5-ac67-45a41ec8a248.mp4
 
 
 ### Clean Tech
@@ -34,7 +35,8 @@ https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-
 - Improved Python chemical model by **documenting bugs** and reviewing numerical algorithms 
 - Design, procurement, management, and troubleshooting of complex chemical processes
 - Supported analysis of chemical process model development on **Python/Cantera**
-- **Co-Inventor on a patent** - Ekona Power Inc. 2018  https://patents.google.com/patent/US20220185664A1/en?assignee=ekona+power&oq=ekona+power
+- [Patent Co-Inventor at Ekona Power](https://patents.google.com/patent/US20220185664A1/en?assignee=ekona+power&oq=ekona+power)
+![image](https://user-images.githubusercontent.com/94336773/202268437-18a7ccd4-639f-4ef2-901d-5984e1207b14.png)
 
 ## 💻 Tech Stack:
 - MERN Stack 
