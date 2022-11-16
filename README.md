@@ -3,6 +3,11 @@
 ### 📄 Resume
 [ShawnEsquivel_Resume_REVJ.pdf](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
 
+### My Favourite Projects
+CoLab https://github.com/shawnesquivel/CoLab            |  CryptoX https://github.com/shawnesquivel/cryptox
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" width="500"> | <img src="https://user-images.githubusercontent.com/94336773/168397708-691fedab-1945-42d4-bd91-efd1facb8788.png" width="500"> 
+
 ### Clean Tech
 🌱 I have worked for 2 years in fighting climate change at a Clean Energy startup. I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to simulate and optimize a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I didn't have the skills to contribute more to the software development in Python.
 
