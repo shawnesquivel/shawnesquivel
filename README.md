@@ -4,7 +4,7 @@
 [ShawnEsquivel_Resume_REVJ.pdf](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
 
 ### My Favourite Projects
-CoLab https://github.com/shawnesquivel/CoLab            |  CryptoX https://github.com/shawnesquivel/cryptox
+[CoLab](https://github.com/shawnesquivel/CoLab)            |  [CryptoX](https://github.com/shawnesquivel/cryptox)
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" width="500"> | <img src="https://user-images.githubusercontent.com/94336773/168397708-691fedab-1945-42d4-bd91-efd1facb8788.png" width="500"> 
 
