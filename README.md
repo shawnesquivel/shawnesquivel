@@ -2,14 +2,14 @@
 A **Full Stack Developer** seeking to empower the planet through code. My current tech stack is the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more!
 
 **What are you interested in?**
-1. [Projects](#projects) 👷‍♂
-2.  [My Story](#-my-story) 📖
-3.  [Tech Stack](#-tech-stack) 💻
-4.  [Contact Me](#contact-me-) 📧
-5.  [Resume](#-resume) 📄
+1. [Projects 👷](#projects-%EF%B8%8F) 
+2.  [My Story 📖](#-my-story) 
+3.  [Tech Stack 💻](#-tech-stack) 
+4.  [Contact Me 📧](#contact-me-) 
+5.  [Resume 📄](#-resume) 
 
 
-# Projects
+# Projects 👷‍♂️
 ## I'm most proud of these Full Stack Projects!
 ### CoLab [GitHub](https://github.com/shawnesquivel/CoLab) 
 Allowing microinfluencers to work with brands to create a seamless workflow, including Campaign Creation, Submission Review, and Payment (Stripe)
