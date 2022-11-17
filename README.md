@@ -2,25 +2,42 @@
 A **Full Stack Developer** seeking to empower the planet through code. My current tech stack is the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more!
 
 **What are you interested in?**
-1. [Projects](#projects)
-2.  [My Story](#-my-story)
-3.  [Tech Stack](#-tech-stack)
-4.  [Contact Me](#contact-me-)
-5.  [Resume](#-resume)
+1. [Projects](#projects) 👷‍♂
+2.  [My Story](#-my-story) 📖
+3.  [Tech Stack](#-tech-stack) 💻
+4.  [Contact Me](#contact-me-) 📧
+5.  [Resume](#-resume) 📄
 
 
 # Projects
 ## I'm most proud of these Full Stack Projects!
-**[CoLab](https://github.com/shawnesquivel/CoLab)**            |  **[CryptoX](https://github.com/shawnesquivel/cryptox)**
-:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" width="500"> | <img src="https://user-images.githubusercontent.com/94336773/168397708-691fedab-1945-42d4-bd91-efd1facb8788.png" width="500"> 
+### CoLab [GitHub](https://github.com/shawnesquivel/CoLab) 
+Allowing microinfluencers to work with brands to create a seamless workflow, including Campaign Creation, Submission Review, and Payment (Stripe)
+<img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" >
 
-### Other Things I've Built!
-#### [Workout Mapper](https://github.com/shawnesquivel/workout-logger)
+####  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
+Learn about your favourite cryptocurrencies, get price info, and breaking news. Powered by Coinranking API.
+ 
+
+https://user-images.githubusercontent.com/94336773/202530558-2ea982d9-89d4-4309-9b38-5e09f2f77df6.mp4
+
+
+## Other Projects
+#### BandSite [GitHub](https://github.com/shawnesquivel/shawn-esquivel-bandsite) | [Website](https://mock-bandsite.netlify.app/)
+Promoting a local band's latest songs, and allowing users to comment!
+
+
+https://user-images.githubusercontent.com/94336773/202529144-49739022-6830-4c84-a43c-33f36572fc66.mp4
+
+
+#### Mapty [GitHub](https://github.com/shawnesquivel/workout-logger) | [Website](https://getthosegains.netlify.app/)
 Log workout data onto a real map, written in JavaScript using the Leaflet API
-<img src="https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png" width="1000">
 
-#### [Birthday Card Generator](https://github.com/Lala0419/mini) (BrainStation Hackathon)
+
+https://user-images.githubusercontent.com/94336773/202529984-143515b7-d4ee-43d5-b9ba-c8688da2a1b5.mp4
+
+
+#### Birthday Card Generator (Hackathon) [GitHub](https://github.com/Lala0419/mini)  | [Website](birthday-card-generator.netlify.app)
 Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
 
 
