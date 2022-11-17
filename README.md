@@ -22,9 +22,13 @@ Log workout data onto a real map, written in JavaScript using the Leaflet API
 
 #### [Birthday Card Generator](https://github.com/Lala0419/mini) (BrainStation Hackathon)
 Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
-<p align="center">
-https://user-images.githubusercontent.com/94336773/202268863-3a80a56b-1e3f-44c5-ac67-45a41ec8a248.mp4
-</p>
+
+
+
+https://user-images.githubusercontent.com/94336773/202522724-51d9fa8a-9d2b-43af-8908-6dfd40cbf169.mp4
+
+
+
 
 # 📖 My Story 
 ### Where I Came From 🌱
