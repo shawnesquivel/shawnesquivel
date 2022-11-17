@@ -54,7 +54,7 @@ I have worked for 2 years in fighting climate change at a Clean Energy startup. 
 ## Why I Love Coding 👨🏽‍💻
 Due to my lack of being able to contribute to our chemical model, I started to learn how to code in my evenings after work. The same passion that drew me to Chemical Engineering, I also found in building websites.  Skills that I had developed from working at a startup, such as first principles thinking and troubleshooting, helped me to write code. 
 
-## Where I Want To Go Next 👨🏽‍💻
+## Where I Want To Go Next 💭
 I want to empower the planet and its people through building amazing products. My short term goal is to continue building good fundamentals in full stack applications by joining a company with a culture of growth and contribution.
 
 # 👨🏽‍💻 Professional Highlights:
