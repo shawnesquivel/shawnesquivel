@@ -15,7 +15,7 @@ A **Full Stack Developer** seeking to empower the planet through code. My curren
 Allowing microinfluencers to work with brands to create a seamless workflow, including Campaign Creation, Submission Review, and Payment (Stripe)
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" >
 
-####  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
+###  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
 Learn about your favourite cryptocurrencies, get price info, and breaking news. Powered by Coinranking API.
  
 
@@ -23,21 +23,21 @@ https://user-images.githubusercontent.com/94336773/202530558-2ea982d9-89d4-4309-
 
 
 ## Other Projects
-#### BandSite [GitHub](https://github.com/shawnesquivel/shawn-esquivel-bandsite) | [Website](https://mock-bandsite.netlify.app/)
+### BandSite [GitHub](https://github.com/shawnesquivel/shawn-esquivel-bandsite) | [Website](https://mock-bandsite.netlify.app/)
 Promoting a local band's latest songs, and allowing users to comment!
 
 
 https://user-images.githubusercontent.com/94336773/202529144-49739022-6830-4c84-a43c-33f36572fc66.mp4
 
 
-#### Mapty [GitHub](https://github.com/shawnesquivel/workout-logger) | [Website](https://getthosegains.netlify.app/)
+### Mapty [GitHub](https://github.com/shawnesquivel/workout-logger) | [Website](https://getthosegains.netlify.app/)
 Log workout data onto a real map, written in JavaScript using the Leaflet API
 
 
 https://user-images.githubusercontent.com/94336773/202529984-143515b7-d4ee-43d5-b9ba-c8688da2a1b5.mp4
 
 
-#### Birthday Card Generator (Hackathon) [GitHub](https://github.com/Lala0419/mini)  | [Website](birthday-card-generator.netlify.app)
+### Birthday Card Generator (Hackathon) [GitHub](https://github.com/Lala0419/mini)  | [Website](birthday-card-generator.netlify.app)
 Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
 
 
@@ -48,12 +48,14 @@ https://user-images.githubusercontent.com/94336773/202522724-51d9fa8a-9d2b-43af-
 
 
 # 📖 My Story 
-### Where I Came From 🌱
+## My Journey Thus Far 🌱
 I have worked for 2 years in fighting climate change at a Clean Energy startup. I was deeply involved in the product life cycle, from idea to tangible product. Part of the product design involved using Python to simulate and optimize a novel chemical reactor. While I was able to do use data analysis to review the results and optimize our process, I was frustrated that I didn't have the skills to contribute more to the software development in Python.
 
-### Why I Love Coding 👨🏽‍💻
-Due to my lack of being able to contribute to our cheimcal model, I started to learn how to code in my evenings after work. The same passion that drew me to Chemical Engineering, I also found in building websites.  Skills that I had developed from working at a startup, such as first principles thinking and troubleshooting, helped me to write code. 
+## Why I Love Coding 👨🏽‍💻
+Due to my lack of being able to contribute to our chemical model, I started to learn how to code in my evenings after work. The same passion that drew me to Chemical Engineering, I also found in building websites.  Skills that I had developed from working at a startup, such as first principles thinking and troubleshooting, helped me to write code. 
 
+## Where I Want To Go Next 👨🏽‍💻
+I want to empower the planet and its people through building amazing products. My short term goal is to continue building good fundamentals in full stack applications by joining a company with a culture of growth and contribution.
 
 # 👨🏽‍💻 Professional Highlights:
 <div align="center">
