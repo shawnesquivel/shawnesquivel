@@ -37,7 +37,7 @@ Log workout data onto a real map, written in JavaScript using the Leaflet API
 https://user-images.githubusercontent.com/94336773/202529984-143515b7-d4ee-43d5-b9ba-c8688da2a1b5.mp4
 
 
-### Birthday Card Generator (Hackathon) [GitHub](https://github.com/Lala0419/mini)  | [Website](birthday-card-generator.netlify.app)
+### Birthday Card Generator (Hackathon) [GitHub](https://github.com/Lala0419/mini)  | [Website](https://birthday-card-generator.netlify.app)
 Creates a custom birthday card based on your birthday and favourite colour! Made in less than 6 hours for a [BrainStation Hackathon](http://brainstation.io/).
 
 
