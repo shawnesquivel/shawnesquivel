@@ -92,5 +92,5 @@ I want to empower the planet and its people through building amazing products. P
 - 🔗 **LinkedIn** : https://linkedin.com/in/shawnesquivel
 
 
-## 📄 Resume
+## 📄 Resume (last updated Nov 11, 2022)
 [Shawn Esquivel's Software Resume **(Click to Download)**](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
