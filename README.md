@@ -83,6 +83,7 @@ Axios, Postman, Git, GitHub  | AWS S3, JSON Web Token, oAuth2.0
 - Building a project with TypeScript
 - Writing smart contracts on Rust
 - Authentication with Firebase
+- Building machine learning algorithms to optimzie user/project matching
 
 
 # Contact Me 📮
