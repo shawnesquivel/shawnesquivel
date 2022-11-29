@@ -15,6 +15,12 @@ A **Full Stack Developer** seeking to empower the planet through code. My curren
 Allowing microinfluencers to work with brands to create a seamless workflow, including Campaign Creation, Submission Review, and Payment (Stripe)
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" >
 
+### HumanKynd (1st Place at Give Back Hacks 3) [GitHub](https://github.com/shawnesquivel/humankynd)
+HumanKynd is a crowdsource + collaborative platform that allows anyone to volunteer, donate, or provide suggestions to charitable events. You can also create your own charitable event directly on the site!
+![image](https://user-images.githubusercontent.com/94336773/204437783-af500566-2ddb-4b82-8cf6-6d51e4a5bb8c.png)
+
+
+
 ###  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
 Learn about your favourite cryptocurrencies, get price info, and breaking news. Powered by Coinranking API.
  
