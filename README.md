@@ -20,6 +20,12 @@ HumanKynd is a crowdsource + collaborative platform that allows anyone to volunt
 ![image](https://user-images.githubusercontent.com/94336773/204437783-af500566-2ddb-4b82-8cf6-6d51e4a5bb8c.png)
 
 
+### Decode (🥈 2nd place at SustainHacks) | [GitHub](https://github.com/shawnesquivel/decode)
+Given an article of clothing from a website, Decode will web-scrape the page to determine clothing information like the blend of materials (80% cotton, 20% polyester), clothing type, brand, and weight.
+
+![product-gif](https://user-images.githubusercontent.com/94336773/205826365-633ff2e2-3905-4195-b809-ce2cf4efe4be.gif)
+
+
 
 ###  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
 Learn about your favourite cryptocurrencies, get price info, and breaking news. Powered by Coinranking API.
