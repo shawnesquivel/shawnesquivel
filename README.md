@@ -2,9 +2,11 @@
 
 <div align="center">
  
- A **Full Stack Developer** seeking to empower the planet through code.  I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
+👨‍💻 A **Full Stack Developer** seeking to empower the planet through code.
+ 
+ 💪 I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
 
-🌱 December 2020: I'm currently learning how to write Smart Contracts the Ethereum Virtual Machine 📀
+🌱 December 2022: Right now, I'm learning how to write Smart Contracts the Ethereum Virtual Machine 📀
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
  
