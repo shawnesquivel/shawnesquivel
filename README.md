@@ -1,19 +1,22 @@
 # Hi there, I'm Shawn! 👋 
-A **Full Stack Developer** seeking to empower the planet through code. I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more!
+
+<div align="center">
+ 
+ A **Full Stack Developer** seeking to empower the planet through code.  I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
 
 🌱 December 2020: I'm currently learning how to write Smart Contracts the Ethereum Virtual Machine 📀
 
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
+ 
+ </ul>
 </div>
 
-**What are you interested in?**
+**What would you like to know more about?**
 1. [Projects 👷](#projects-%EF%B8%8F) 
 2.  [My Story 📖](#-my-story) 
 3.  [Tech Stack 💻](#-tech-stack) 
 4.  [Contact Me 📧](#contact-me-) 
 5.  [Resume 📄](#-resume) 
-
 
 # Projects 👷‍♂️
 ## I'm most proud of these Full Stack Projects!
@@ -113,4 +116,5 @@ I want to empower the planet and its people through building amazing products. P
 
 
 ## 📄 Resume 
-[Resume (last updated Nov 11, 2022) **(Click to Download)**](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
+[Resume (last updated Dec 8th, 2022) **(Click to Download)**](https://github.com/shawnesquivel/shawnesquivel/files/10190287/ShawnEsquivel_Resume_REV8.pdf)
+
