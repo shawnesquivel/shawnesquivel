@@ -1,5 +1,11 @@
 # Hi there, I'm Shawn! 👋 
-A **Full Stack Developer** seeking to empower the planet through code. My current tech stack is the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more!
+A **Full Stack Developer** seeking to empower the planet through code. I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more!
+
+🌱 December 2020: I'm currently learning how to write Smart Contracts the Ethereum Virtual Machine 📀
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
+</div>
 
 **What are you interested in?**
 1. [Projects 👷](#projects-%EF%B8%8F) 
@@ -102,7 +108,9 @@ Axios, Postman, Git, GitHub  | AWS S3, JSON Web Token, oAuth2.0
 I want to empower the planet and its people through building amazing products. Please connect with me if you have an opportunity in mind. 
 - 📧 **Email** : shawnesquivel24@gmail.com
 - 🔗 **LinkedIn** : https://linkedin.com/in/shawnesquivel
+- 👨‍💻 **Devpost**: https://devpost.com/shawnesquivel
 
 
-## 📄 Resume (last updated Nov 11, 2022)
-[Shawn Esquivel's Software Resume **(Click to Download)**](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
+
+## 📄 Resume 
+[Resume (last updated Nov 11, 2022) **(Click to Download)**](https://github.com/shawnesquivel/shawnesquivel/files/10024583/ShawnEsquivel_Resume_REVJ.pdf)
