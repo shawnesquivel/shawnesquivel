@@ -6,8 +6,8 @@
  
  💪 I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
 
-🌱 December 2022: Right now, I'm learning how to write Smart Contracts the Ethereum Virtual Machine 📀
-
+🌱 Jan 30 - Apr 30: Working on https://github.com/jupyterlab/jupyterlab-git as an MLH Fellow.
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
  
  </ul>
