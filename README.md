@@ -6,7 +6,7 @@
  
  💪 I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
 
-🌱 Jan 30 - Apr 30: Working on https://github.com/jupyterlab/jupyterlab-git as an MLH Fellow.
+🌱 Jan 30 - Apr 30, 2023: Working on https://github.com/jupyterlab/jupyterlab-git as an MLH Fellow.
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
  
