@@ -114,7 +114,7 @@ I want to empower the planet and its people through building amazing products. P
 - 📧 **Email** : shawnesquivel24@gmail.com
 - 🔗 **LinkedIn** : https://linkedin.com/in/shawnesquivel
 - 👨‍💻 **Devpost**: https://devpost.com/shawnesquivel
-- **Book a call?:** https://calendly.com/shawnesquivel/30min
+- **Book a call with me!:** https://calendly.com/shawnesquivel/30min
 
 
 ## 📄 Resume 
