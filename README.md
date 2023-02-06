@@ -2,7 +2,7 @@
  
 - 👨‍💻 **Full Stack Developer** who enjoys building things from the ground up
 - 💪 **Strengths:** MERN Stack, with a heavy focus on ReactJS and NodeJS
-- 🪐 **Open Source Contributor** at https://github.com/jupyterlab/jupyterlab-git for the [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) program
+- 🪐 **Open Source Contributor** for [jupyterlab's git extension](https://github.com/jupyterlab/jupyterlab-git) for the [MLH Fellowship](https://fellowship.mlh.io/programs/software-engineering) program
 - 👨🏽‍💻 **Software Developer** building frontend tools at [a clean energy company](https://www.ekonapower.com/)
 - 🔥 **Building A Side Hustle** by creating [a brand for Gen Z entrepreneurs](https://www.weeknightsandweekends.com/)
 - ⚛ **Currently Learning**: TypeScript and Python
