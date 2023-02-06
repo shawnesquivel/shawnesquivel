@@ -1,18 +1,11 @@
 # Hi there, I'm Shawn! 👋 
-
-<div align="center">
  
-👨‍💻 A **Full Stack Developer** seeking to empower the planet through code.
- 
- 💪 I am strong in the MERN Stack, with a heavy focus on ReactJS and NodeJS, but I am always looking to learn more! <br/>
-
-🪐 Contributor to https://github.com/jupyterlab/jupyterlab-git as an MLH Fellow.
-🔥 Creating frontend tools at Ekona Power (cleantech) as a Software Developer
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnesquivel">
- 
- </ul>
-</div>
+- 👨‍💻 **Full Stack Developer** who enjoy building things from the ground up
+- 💪 **Strengths:** MERN Stack, with a heavy focus on ReactJS and NodeJS
+- 🪐 **Open Source Contributor** at https://github.com/jupyterlab/jupyterlab-git as an MLH Fellow.
+- 👨🏽‍💻 **Software Developer** building frontend tools at Ekona Power (Clean Energy)
+- 🔥 **Building A Side Hustle** by creating https://www.weeknightsandweekends.com/
+- ⚛ **Currently Learning**: TypeScript and Python
 
 **What would you like to know more about?**
 1. [Projects 👷](#projects-%EF%B8%8F) 
