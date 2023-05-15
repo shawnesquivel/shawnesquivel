@@ -30,7 +30,10 @@ Given an article of clothing from a website, Decode will web-scrape the page to 
 
 ![product-gif](https://user-images.githubusercontent.com/94336773/205826365-633ff2e2-3905-4195-b809-ce2cf4efe4be.gif)
 
+### Ask Naval | [GitHub](https://github.com/hwchase17/langchain/pull/3819)
+Using [Langchain](https://js.langchain.com/docs/), built an AI tool that reads my favourite book and lets you ask questions to it. Provides sources too!
 
+![image](https://github.com/shawnesquivel/shawnesquivel/assets/94336773/aed91dd3-c87a-4bfa-8cd2-21e1f4cccf22)
 
 ###  **CryptoX [GitHub](https://github.com/shawnesquivel/cryptox) | [Website](https://thedailycrypto.netlify.app/)**
 Learn about your favourite cryptocurrencies, get price info, and breaking news. Powered by Coinranking API.
