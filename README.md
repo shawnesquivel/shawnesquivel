@@ -16,6 +16,14 @@
 
 # Projects 👷‍♂️
 ## I'm most proud of these Full Stack Projects!
+## AI JavaScript Course (LangChain) [Demo](https://langchain-js-course.vercel.app/)
+Created a Full Stack AI course using LangChain, NextJS, HTML, CSS, JavaScript, TailWindCSS, Supabase and Pinecone with 530 students on Udemy
+[Udemy Link](https://www.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/)
+<img width="730" alt="image" src="https://github.com/shawnesquivel/shawnesquivel/assets/94336773/73a1a7f3-b891-4cc4-b76b-a090838f8398">
+
+
+
+
 ### CoLab [GitHub](https://github.com/shawnesquivel/CoLab) 
 Allowing microinfluencers to work with brands to create a seamless workflow, including Campaign Creation, Submission Review, and Payment (Stripe)
 <img src="https://user-images.githubusercontent.com/94336773/202241557-bd88f608-8926-4e1a-9a35-982b2e8ebd7b.png" >
