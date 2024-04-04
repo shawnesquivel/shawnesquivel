@@ -17,7 +17,7 @@
 ## I'm most proud of these Full Stack Projects!
 ## AI JavaScript Course (LangChain) [Demo](https://langchain-js-course.vercel.app/) | [Udemy Link](https://www.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/)
 
-Created a Full Stack AI course with 1000+ students.
+Created a Full Stack AI course with 2500+ students.
 Using LangChain, NextJS, HTML, CSS, JavaScript, TailWindCSS, Supabase and Pinecone 
 
 <img width="730" alt="image" src="https://github.com/shawnesquivel/shawnesquivel/assets/94336773/73a1a7f3-b891-4cc4-b76b-a090838f8398">
