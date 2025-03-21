@@ -1,3 +1,2 @@
 building https://matchya.app
-
-https://vimeo.com/1067746143/b250246ace
+taught 3k students langchain + nextjs
