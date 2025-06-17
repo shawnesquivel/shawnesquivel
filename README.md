@@ -1,9 +1,9 @@
 hi hi! here's some stuff i've built recently.
 
-### ai receptionist | [matchya](https://matchya.app)
+### ai therapist finder | [matchya](https://matchya.app)
 - finding a therapist sucks.
 - instead of scrolling through profiles, just mention what your preferences / issues are.
-- matchya will find you top therapists in your area.
+- matchya will parse through hundreds of therapists to find your perfect fit.
 
 ![image](https://github.com/user-attachments/assets/eda88ffc-d366-4c3c-a154-1fb3043a803b)
 
