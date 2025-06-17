@@ -15,6 +15,10 @@ hi hi! here's some stuff i've built recently.
 
 ![image](https://github.com/user-attachments/assets/e644ec18-e907-47fb-9723-61f64c67768a)
 
+### AI Tutorials | [YouTube](https://www.youtube.com/@shawn.builds)
+
+![image](https://github.com/user-attachments/assets/e85de884-65c2-49f6-92a0-c295e15cabda)
+
 
 
 #### wanna chat?
